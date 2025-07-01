@@ -1,16 +1,73 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Subham Moda 👋</h1>
+<p align="center">
+  <em>Full-Stack Data Engineer | M.S. in Data Science | Multi-Cloud (AWS/GCP/Azure) | NLP + LLMs Enthusiast</em>
+</p>
 
-<!--
-**subhammoda/subhammoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🔍 **About Me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a data engineer and data scientist with 3+ years of experience designing scalable data platforms, automating workflows, and deploying machine learning pipelines. I bring end-to-end expertise across **data ingestion, orchestration, modeling, and analytics**—and deliver cloud-native solutions on **AWS, GCP, and Azure**.
+
+---
+
+
+🛠️ **Tech Stack**
+
+### 👨‍💻 Programming & Query Languages  
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R"/></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"/></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB"/></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle"/></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server"/></code>
+
+### 📦 Data Engineering & Cloud Platforms  
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP"/></code>
+<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS"/></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure"/></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow"/></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="Hadoop"/></code>
+
+### 📊 BI & Visualization  
+<code><img height="25" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/looker.svg" alt="Looker"/></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau"/></code>
+<code><img height="25" src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"/></code>
+
+### 🧰 Tools, Editors & Environments  
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter"/></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm"/></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio"/></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"/></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"/></code>
+
+---
+
+🎓 **Education & Certifications**
+
+- 🎓 **M.S. in Data Science**, Stevens Institute of Technology (2024)  
+- 🎓 **B.Tech in IT**, NMIMS University (2020)  
+
+**Certifications**  
+- ✅ Google Cloud Associate Cloud Engineer  
+- ✅ AWS Solutions Architect Associate  
+- ✅ SAS Certified Specialist
+
+---
+
+📬 **Let’s Connect**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/subhammoda">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" alt="LinkedIn logo"/>
+  </a>
+  &emsp;&emsp;
+  <a href="mailto:subhammoda@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="45" alt="Gmail logo" />
+  </a>
+</p>
+
+---
+
+📌 *“I engineer data systems that power ML insights, business decisions, and automation at scale.”*
