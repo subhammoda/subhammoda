@@ -58,15 +58,13 @@ I’m a data engineer and data scientist with 3+ years of experience designing s
 
 📬 **Let’s Connect**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/subhammoda">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" alt="LinkedIn logo"/>
-  </a>
-  &emsp;&emsp;
-  <a href="mailto:subhammoda@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="45" alt="Gmail logo" />
-  </a>
-</p>
+<div align="center">
+  
+  [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhammoda) &emsp; 
+  [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhammoda@gmail.com)
+
+</div>
+
 
 ---
 
