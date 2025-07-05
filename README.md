@@ -28,6 +28,7 @@ I’m a data engineer and data scientist with 3+ years of experience designing s
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS"/></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure"/></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow"/></code>
+<code><img height="25" src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake"/></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="Hadoop"/></code>
 
 ### 📊 BI & Visualization  
