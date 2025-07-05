@@ -15,33 +15,33 @@ I’m a data engineer and data scientist with 3+ years of experience designing s
 🛠️ **Tech Stack**
 
 ### 👨‍💻 Programming & Query Languages  
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R"/></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"/></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB"/></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle"/></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server"/></code>
+<code><img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/></code>
+<code><img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R"/></code>
+<code><img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"/></code>
+<code><img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB"/></code>
+<code><img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle"/></code>
+<code><img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/></code>
+<code><img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server"/></code>
 
 ### 📦 Data Engineering & Cloud Platforms  
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP"/></code>
-<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS"/></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure"/></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow"/></code>
-<code><img height="25" src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake"/></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="Hadoop"/></code>
+<code><img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP"/></code>
+<code><img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS"/></code>
+<code><img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure"/></code>
+<code><img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow"/></code>
+<code><img width="50" height="50" src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake"/></code>
+<code><img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="Hadoop"/></code>
 
 ### 📊 BI & Visualization  
-<code><img height="25" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/looker.svg" alt="Looker"/></code>
-<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau"/></code>
-<code><img height="25" src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"/></code>
+<code><img width="50" height="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/looker.svg" alt="Looker"/></code>
+<code><img width="50" height="50" src="https://github.com/gilbarbara/logos/blob/main/logos/tableau-icon.svg" alt="Tableau"/></code>
+<code><img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI"/></code>
 
 ### 🧰 Tools, Editors & Environments  
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter"/></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm"/></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio"/></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"/></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"/></code>
+<code><img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter"/></code>
+<code><img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm"/></code>
+<code><img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio"/></code>
+<code><img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"/></code>
+<code><img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"/></code>
 
 ---
 
